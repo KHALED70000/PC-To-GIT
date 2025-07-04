@@ -1,0 +1,10 @@
+.oneDiv{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    background: aqua;
+}
+.oneDiv p{
+    font-size: 20px;
+}
